@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
         "merged": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
         "source": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\Users\\Eftakhar\\Desktop\\ishrae\\GetGPSLocation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
